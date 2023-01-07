@@ -2,13 +2,13 @@
 
 This project is a simple implementation of the Mandelbrot set using p5.js, 
 a JavaScript library for creating graphics and interactive experiences.
-You can find more information on the math behind this set on [wikipedia](www.wikipedia.org/wiki/Mandelbrot_set)
+You can find more information on the math behind this set on [wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set).
 
 
 ## Getting Started
 
 To get started with this project, you will need to have a basic understanding of JavaScript and the p5.js library. 
-If you are new to p5.js, you may want to check out the [p5.js website](www.p5js.org/) and the [p5.js reference](www.p5js.org/reference/) for more information.
+If you are new to p5.js, you may want to check out the [p5.js website](https://p5js.org/) and the [p5.js reference](https://www.p5js.org/reference/) for more information.
 
 To run this project, you will need a web browser that supports the canvas element and JavaScript.
 
